@@ -1,0 +1,48 @@
+body {
+  background-color: #ebeaeb;
+}
+
+.h1 {
+  margin-top: 50%;
+}
+
+.logo {
+  padding: 0%;
+  margin-top: 0%;
+  margin-right: 0;
+}
+.logo span {
+  color: #8026a8;
+}
+.logo img {
+  height: 65px;
+  padding: 0%;
+}
+
+.barra {
+  position: sticky;
+  top: 0;
+  background-color: #ebeaeb;
+}
+.barra .navbar {
+  align-items: center;
+  justify-content: center;
+  padding: 1%;
+  height: 30px;
+}
+.barra .navbar .navbar-toggler-icon {
+  height: 15px;
+  width: 15px;
+}
+.barra ul {
+  display: flex;
+  padding: 0 0 0 1px;
+}
+.barra li {
+  list-style: none;
+  padding: 0 8px;
+  font-size: larger;
+  color: #8026a8;
+}
+
+/*# sourceMappingURL=styles.css.map */
