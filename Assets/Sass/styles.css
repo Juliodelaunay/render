@@ -2,10 +2,6 @@ body {
   background-color: #ebeaeb;
 }
 
-.h1 {
-  margin-top: 50%;
-}
-
 .logo {
   padding: 0%;
   margin-top: 0%;
@@ -13,6 +9,7 @@ body {
 }
 .logo span {
   color: #8026a8;
+  font-family: "Oswald", sans-serif;
 }
 .logo img {
   height: 65px;
@@ -23,12 +20,13 @@ body {
   position: sticky;
   top: 0;
   background-color: #ebeaeb;
+  display: flex;
 }
 .barra .navbar {
   align-items: center;
   justify-content: center;
   padding: 1%;
-  height: 30px;
+  height: 35px;
 }
 .barra .navbar .navbar-toggler-icon {
   height: 15px;
@@ -36,13 +34,18 @@ body {
 }
 .barra ul {
   display: flex;
-  padding: 0 0 0 1px;
+  padding: 0 0 0 0px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3%;
+  margin-left: 25%;
 }
-.barra li {
+.barra ul li {
   list-style: none;
-  padding: 0 8px;
+  padding: 0 10 0 0px;
   font-size: larger;
   color: #8026a8;
+  width: 100px;
 }
 
 /*# sourceMappingURL=styles.css.map */

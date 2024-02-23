@@ -1,20 +1,19 @@
 <div class="container barra">
     <div class="row">
-        <div class="col-md-12">
-            <a class="navbar-brand logo" href="#">
+        <div class="col-md-12 barra">
+            <a class="navbar-brand logo mt-3 mb-2" href="#">
                 <img src="Assets/images/logo/Render_logo.png" alt="">
-                <span>juliasdasdasdasdaso</span>
+                <span>3D Architec</span>
             </a>
             <ul>
-                <li>Palabra 1</li>
-                <li>Palabra 1</li>
-                <li>Palabra 1</li>
-                
-
+                <li>Palabra </li>
+                <li>Palabra </li>
+                <li>Palabra </li>
             </ul>
         </div>
     </div>
 </div>
+<br><br><br><br>
 <div class="container">
     <h1>sdifjsdifjsdi</h1>
     Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nobis et, eum eius reiciendis iure quo aliquid ab
